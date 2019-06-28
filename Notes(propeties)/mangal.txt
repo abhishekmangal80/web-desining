@@ -1,0 +1,406 @@
+1.)Background Property: 
+                                      a.Background color
+                                      b.Background image
+                                      c.Background attachement
+                                      d.background repeat
+                                      e.background size
+                                      f. background clip
+                                      g.background origin
+                                      h.background position
+
+
+ 2.) background clip:
+                              a.border box
+                              b.padding box
+                              c. contain box
+
+
+  3.)border property:
+                         a.border                                        a.border-bottom                           a.border-width                                    
+                          b.border-radius                             b.border-top                                 b.border-left-color
+                           c.border-color                               c.border-left                                  c.border-top-color
+                             d.border-style                               d.border-right                                
+                               e.border-image
+
+
+
+  4.)margin property:
+                           a.margin                           d.margin top
+                            b.margin left                     e.margin:25px 50px 40px 40px
+                             c.margin right
+
+  5.)padding property:
+                            a.padding                                   a.padding top
+                             b.padding left                             b.padding:25px 50px 40px 40px
+                              c.padding right
+
+  6.)Height & Width:
+
+
+  7.)outline property:
+                        a.outline style
+                          b.outline color
+                            c.outline width
+                             d.outline offset
+
+
+  8.)Text formatting:                                            
+                            a.color                                   f.box shadow   
+                             b.align                                   g.text indentation        
+                              c.text decoration                    h. letter space                
+                                d.text transform                     i.  line height                     
+                                 e.text shadow                        j. word spacing
+                                  
+
+
+   9.)display property:
+                  a.display :none 
+                  b.visibilty:hidden
+
+  10.)position property:
+                       a.static
+                         b.relative
+                           c.fixed
+                             d.absolute
+                                e.sticky
+
+  11.)layout overflow property:
+                                   a.visible
+                                     b.scroll
+                                        c.hidden
+                                           d.auto
+
+  12.)float & clear property:
+     13.)navigation menu:
+        14.)inline block:
+            15.)horizontal & vertical align:
+                16.)background image:linear gradient
+            animations
+Mangal@Home-pc MINGW64 ~/Desktop/rjit
+$ git config --global user.name"abhishekmangal80"
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit
+$ git config --global user.email "abhishekmangal80@gmail.com"
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit
+$ git init
+Initialized empty Git repository in C:/Users/Mangal/Desktop/rjit/.git/
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        CSS/
+        IMG/
+        aaa.html
+        about.html
+        amazon.html
+        bhai.html
+        charity.html
+        css3.html
+        facebooks.html
+        frame.html
+        hfgd
+        home.html
+        img.html
+        img.png
+        img.png.html
+        img1.html
+        img2.html
+        img3.html
+        index.html
+        index3.html
+        index4.html
+        index5.html
+        index6.html
+        marqueen.html
+        new e commerce.html
+        paa.html
+        photoframe.html
+        ranu
+        ranu.html
+        rjit.html
+        style.css
+        whatsapp.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$ git add -A
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   CSS/main.css
+        new file:   CSS/style.css
+        new file:   CSS/style1.css
+        new file:   CSS/style2.css
+        new file:   CSS/ttt.css
+        new file:   IMG/.picasa.ini
+        new file:   IMG/.picasaoriginals/.picasa.ini
+        new file:   IMG/.picasaoriginals/48.jpeg
+        new file:   IMG/.picasaoriginals/62.jpg
+        new file:   IMG/.picasaoriginals/76.jpg
+        new file:   IMG/.picasaoriginals/78.jpg
+        new file:   IMG/.picasaoriginals/81.jpg
+        new file:   IMG/1.png
+        new file:   IMG/10.jpg
+        new file:   IMG/11.jpg
+        new file:   IMG/12.jpg
+        new file:   IMG/13.jpg
+        new file:   IMG/14.jpg
+        new file:   IMG/15.jpg
+        new file:   IMG/16.jpg
+        new file:   IMG/17.jpg
+        new file:   IMG/18.jpg
+        new file:   IMG/19.jpg
+        new file:   IMG/21.jpg
+        new file:   IMG/25.jpg
+        new file:   IMG/26.jpg
+        new file:   IMG/27.jpg
+        new file:   IMG/28.jpg
+        new file:   IMG/29.jpg
+        new file:   IMG/30.jpg
+        new file:   IMG/31.jpg
+        new file:   IMG/35.jpg
+        new file:   IMG/36.jpg
+        new file:   IMG/40.png
+        new file:   IMG/41.png
+        new file:   IMG/42.jpg
+        new file:   IMG/43.png
+        new file:   IMG/44.jpg
+        new file:   IMG/45.jpg
+        new file:   IMG/46.jpeg
+        new file:   IMG/47.jpeg
+        new file:   IMG/48.jpeg
+        new file:   IMG/49.jpg
+        new file:   IMG/50.jpg
+        new file:   IMG/51.jpg
+        new file:   IMG/52.png
+        new file:   IMG/53.jpg
+        new file:   IMG/54.jpeg
+        new file:   IMG/55.jpeg
+        new file:   IMG/56.jpg
+        new file:   IMG/57.jpg
+        new file:   IMG/58.jpg
+        new file:   IMG/59.jpg
+        new file:   IMG/60.jpg
+        new file:   IMG/61.jpg
+        new file:   IMG/62.jpg
+        new file:   IMG/63.jpg
+        new file:   IMG/64.jpg
+        new file:   IMG/65.png
+        new file:   IMG/66.png
+        new file:   IMG/67.png
+        new file:   IMG/68.jpg
+        new file:   IMG/69.png
+        new file:   IMG/70.jpg
+        new file:   IMG/71.png
+        new file:   IMG/72.png
+        new file:   IMG/73.png
+        new file:   IMG/75.jpg
+        new file:   IMG/76.jpg
+        new file:   IMG/78.jpg
+        new file:   IMG/80.jpg
+        new file:   IMG/81.jpg
+        new file:   IMG/82.jpg
+        new file:   IMG/Thumbs.db
+        new file:   aaa.html
+        new file:   about.html
+        new file:   amazon.html
+        new file:   bhai.html
+        new file:   charity.html
+        new file:   css3.html
+        new file:   facebooks.html
+        new file:   frame.html
+        new file:   hfgd
+        new file:   home.html
+        new file:   img.html
+        new file:   img.png
+        new file:   img.png.html
+        new file:   img1.html
+        new file:   img2.html
+        new file:   img3.html
+        new file:   index.html
+        new file:   index3.html
+        new file:   index4.html
+        new file:   index5.html
+        new file:   index6.html
+        new file:   marqueen.html
+        new file:   new e commerce.html
+        new file:   paa.html
+        new file:   photoframe.html
+        new file:   ranu
+        new file:   ranu.html
+        new file:   rjit.html
+        new file:   style.css
+        new file:   whatsapp.html
+
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$ git commit -m "data abhi"
+[master (root-commit) 92bfbfc] data abhi
+ 104 files changed, 2076 insertions(+)
+ create mode 100644 CSS/main.css
+ create mode 100644 CSS/style.css
+ create mode 100644 CSS/style1.css
+ create mode 100644 CSS/style2.css
+ create mode 100644 CSS/ttt.css
+ create mode 100644 IMG/.picasa.ini
+ create mode 100644 IMG/.picasaoriginals/.picasa.ini
+ create mode 100644 IMG/.picasaoriginals/48.jpeg
+ create mode 100644 IMG/.picasaoriginals/62.jpg
+ create mode 100644 IMG/.picasaoriginals/76.jpg
+ create mode 100644 IMG/.picasaoriginals/78.jpg
+ create mode 100644 IMG/.picasaoriginals/81.jpg
+ create mode 100644 IMG/1.png
+ create mode 100644 IMG/10.jpg
+ create mode 100644 IMG/11.jpg
+ create mode 100644 IMG/12.jpg
+ create mode 100644 IMG/13.jpg
+ create mode 100644 IMG/14.jpg
+ create mode 100644 IMG/15.jpg
+ create mode 100644 IMG/16.jpg
+ create mode 100644 IMG/17.jpg
+ create mode 100644 IMG/18.jpg
+ create mode 100644 IMG/19.jpg
+ create mode 100644 IMG/21.jpg
+ create mode 100644 IMG/25.jpg
+ create mode 100644 IMG/26.jpg
+ create mode 100644 IMG/27.jpg
+ create mode 100644 IMG/28.jpg
+ create mode 100644 IMG/29.jpg
+ create mode 100644 IMG/30.jpg
+ create mode 100644 IMG/31.jpg
+ create mode 100644 IMG/35.jpg
+ create mode 100644 IMG/36.jpg
+ create mode 100644 IMG/40.png
+ create mode 100644 IMG/41.png
+ create mode 100644 IMG/42.jpg
+ create mode 100644 IMG/43.png
+ create mode 100644 IMG/44.jpg
+ create mode 100644 IMG/45.jpg
+ create mode 100644 IMG/46.jpeg
+ create mode 100644 IMG/47.jpeg
+ create mode 100644 IMG/48.jpeg
+ create mode 100644 IMG/49.jpg
+ create mode 100644 IMG/50.jpg
+ create mode 100644 IMG/51.jpg
+ create mode 100644 IMG/52.png
+ create mode 100644 IMG/53.jpg
+ create mode 100644 IMG/54.jpeg
+ create mode 100644 IMG/55.jpeg
+ create mode 100644 IMG/56.jpg
+ create mode 100644 IMG/57.jpg
+ create mode 100644 IMG/58.jpg
+ create mode 100644 IMG/59.jpg
+ create mode 100644 IMG/60.jpg
+ create mode 100644 IMG/61.jpg
+ create mode 100644 IMG/62.jpg
+ create mode 100644 IMG/63.jpg
+ create mode 100644 IMG/64.jpg
+ create mode 100644 IMG/65.png
+ create mode 100644 IMG/66.png
+ create mode 100644 IMG/67.png
+ create mode 100644 IMG/68.jpg
+ create mode 100644 IMG/69.png
+ create mode 100644 IMG/70.jpg
+ create mode 100644 IMG/71.png
+ create mode 100644 IMG/72.png
+ create mode 100644 IMG/73.png
+ create mode 100644 IMG/75.jpg
+ create mode 100644 IMG/76.jpg
+ create mode 100644 IMG/78.jpg
+ create mode 100644 IMG/80.jpg
+ create mode 100644 IMG/81.jpg
+ create mode 100644 IMG/82.jpg
+ create mode 100644 IMG/Thumbs.db
+ create mode 100644 aaa.html
+ create mode 100644 about.html
+ create mode 100644 amazon.html
+ create mode 100644 bhai.html
+ create mode 100644 charity.html
+ create mode 100644 css3.html
+ create mode 100644 facebooks.html
+ create mode 100644 frame.html
+ create mode 100644 hfgd
+ create mode 100644 home.html
+ create mode 100644 img.html
+ create mode 100644 img.png
+ create mode 100644 img.png.html
+ create mode 100644 img1.html
+ create mode 100644 img2.html
+ create mode 100644 img3.html
+ create mode 100644 index.html
+ create mode 100644 index3.html
+ create mode 100644 index4.html
+ create mode 100644 index5.html
+ create mode 100644 index6.html
+ create mode 100644 marqueen.html
+ create mode 100644 new e commerce.html
+ create mode 100644 paa.html
+ create mode 100644 photoframe.html
+ create mode 100644 ranu
+ create mode 100644 ranu.html
+ create mode 100644 rjit.html
+ create mode 100644 style.css
+ create mode 100644 whatsapp.html
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$ git remote add origin https://github.com/abhishekmangal80/pn infosys.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$ git remote add origin https://github.com/abhishekmangal80/abhiss.git
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$ git push origin master
+Enumerating objects: 102, done.
+Counting objects: 100% (102/102), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (93/93), done.
+Writing objects: 100% (102/102), 2.59 MiB | 66.00 KiB/s, done.
+Total 102 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), done.
+To https://github.com/abhishekmangal80/abhiss.git
+ * [new branch]      master -> master
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$ git clone https://github.com/abhishekmangal80/abhiss.git
+Cloning into 'abhiss'...
+remote: Enumerating objects: 102, done.
+remote: Counting objects: 100% (102/102), done.
+remote: Compressing objects: 100% (90/90), done.
+remote: Total 102 (delta 3), reused 102 (delta 3), pack-reused 0
+Receiving objects: 100% (102/102), 2.59 MiB | 276.00 KiB/s, done.
+Resolving deltas: 100% (3/3), done.
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$ ^C
+
+Mangal@Home-pc MINGW64 ~/Desktop/rjit (master)
+$
+

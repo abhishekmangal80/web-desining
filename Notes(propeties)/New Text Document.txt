@@ -1,0 +1,46 @@
+Background Property: 
+                                      a.Background color
+                                      b.Background image
+                                      c.Background attachement
+                                        d.background repeat
+                                          e.background size
+                                           background            clip
+                                           background            origin
+                                             background          position
+
+                               background clip:
+                              border box
+                              padding box
+                               contain box
+border property:
+a.border                                         a.border bottom                            a.border -color                                    
+b.border-radius                             b.border top                                   b.border left color
+c.border color                                 c.border-left                                  c.border top color
+d.border style                                 d.border right                                 d.border width
+e.border image
+
+margin property:
+a.margin                           a.margin top
+b.margin left                      d.margin:25px 50px 40px 40px
+c.margin right
+
+padding property:
+a.padding                                   a.padding top
+b.padding left                               b.padding:25px 50px 40px 40px
+c.padding right
+
+Heighrt & Width:
+
+outline property:
+outline style
+outline color
+outline with
+outline offset
+
+Text formatting:
+a.color                                    text indentation
+align                                        letter space
+text decoration                            line height
+text transform                             word spacing
+text shadow
+box shadow
